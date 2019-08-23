@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array(array,element)
-planets = ["venus", "mars", "earth", "jupiter"]
+array = [element, element, element, element]
 end
 
 def add_element_to_end_of_array(array, element)
