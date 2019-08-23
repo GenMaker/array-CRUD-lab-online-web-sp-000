@@ -1,5 +1,5 @@
 def create_an_empty_array
-  [venus, mars, earth, jupiter]]
+  [venus, mars, earth, jupiter]
 end
 
 def create_an_array(array,element)
